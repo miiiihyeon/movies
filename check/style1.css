@@ -1,0 +1,31 @@
+.saw{color:gray;font-size: 60px}
+
+#active{color:black;
+    font-size: 70px}
+
+a{text-decoration: none;}
+
+li{list-style: none;}
+
+
+
+h1{text-align: center ;
+    color: orange;
+    font-size :100px;
+    }
+
+div{border:5px solid;
+border-color:orange;
+text-align: center;
+margin:auto;
+
+max-width: fit-content;
+}
+
+    
+
+
+
+    
+
+
